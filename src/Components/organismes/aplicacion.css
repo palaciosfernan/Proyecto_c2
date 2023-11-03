@@ -1,0 +1,17 @@
+
+.centered-content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+  .bs{
+    background-color: black;
+    height: 300px;
+  }
+  .pagina{
+    background-color: #364E70;
+    height: 850px;
+    width: auto;
+
+  }

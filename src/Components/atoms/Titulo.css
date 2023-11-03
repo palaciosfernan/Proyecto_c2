@@ -1,0 +1,34 @@
+.titulo {
+    background-color: #59788a;
+    padding: 20px;
+    border: 1px solid #add8f1;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px;
+    height: 20px;
+    width: 80%;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    color: aliceblue;
+  }
+  
+  .texto {
+    text-align: center;
+    flex-grow: 1; 
+  }
+  
+  .hora {
+    text-align: right;
+  }
+  
+  
+.contenedor{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+}
+.hora {
+    text-align: right; 
+  }

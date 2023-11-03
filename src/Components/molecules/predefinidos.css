@@ -1,0 +1,14 @@
+/* Tu estilo CSS existente */
+.Suchiapa, .Tuxtla {
+    background-color: #8094B0;
+    text-align: center;
+    margin: 10px;
+    width: 50%;
+    border-radius: 5px;
+    border: 1px solid #333333;
+}
+
+.contenedor {
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+}

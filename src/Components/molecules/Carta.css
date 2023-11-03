@@ -1,0 +1,13 @@
+.carta {
+    background-color: #C5D7F0;
+    padding: 20px;
+    border: 1px solid #bff5ff;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    margin: 10px;
+    height: auto;
+    width: 50%;
+    justify-content: center;
+  
+  }
